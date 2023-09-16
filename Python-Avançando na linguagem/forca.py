@@ -86,7 +86,7 @@ def desenha_forca(erros):
 
 
 def imprime_mensagem_vencedor():
-    print("Parabéns, você ganhou!")
+    print("Parabéns, você ganhou!!")
     print("       ___________      ")
     print("      '._==_==_=_.'     ")
     print("      .-\\:      /-.    ")
